@@ -1,1 +1,4 @@
 .env
+train_llm.ipynb
+.vscode/
+hw5_Shcherba.ipynb
